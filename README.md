@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @taldabba
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning front-end programming!
+- 📫 How to reach me: taldabba@gmail.com
