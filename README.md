@@ -8,9 +8,9 @@
 
 ### Connect with me!
 
-[<img alt="Personal Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img alt="LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
-[<img alt="Gmail" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"/>][gmail]
+[<img alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img alt="Taim's LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
+[<img alt="Taim's Email" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"/>][gmail]
 
 ### Languages and Tools: 
 
