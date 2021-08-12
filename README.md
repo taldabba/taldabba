@@ -7,7 +7,7 @@
 - 🤖 My current goals are learning the important software needed for robotics and doing an Arduino robot hand project 🦾
 
 <div align="center">
-  <h2><b>Connect with me!</b></h2>
+  <h2><b>Connect with Me!</b></h2>
   <a href="https://taldabba.github.io/personal-website/">
     <img align="center" alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
   </a>
