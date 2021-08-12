@@ -8,15 +8,15 @@
 
 <div align="center">
   <h2>Connect with me!</h2>
-  <a href=[website]>
+  <a href="https://taldabba.github.io/personal-website/">
     <img align="center" alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[linkedin]">
+  <a href="https://www.linkedin.com/in/taim">
     <img align="center" alt="Taim's LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[gmail]">
+  <a href="mailto:taldabba@gmail.com">
     <img align="center" alt="Taim's Email" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"/>
   </a>
 </div>
@@ -46,7 +46,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
   </a>
 </div>
-
-[website]:https://taldabba.github.io/personal-website/
-[linkedin]:https://www.linkedin.com/in/taim
-[gmail]:mailto:taldabba@gmail.com
