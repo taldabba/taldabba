@@ -9,13 +9,14 @@
 <div align="center">
   <h2>Connect with me!</h2>
   <div>
+
+  </div>
+</div>
     [<img alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
     &nbsp;&nbsp;
     [<img alt="Taim's LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
     &nbsp;&nbsp;
     [<img alt="Taim's Email" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"/>][gmail]
-  </div>
-</div>
 
 <div align="center">
   <h2>Languages and Tools</h2>
