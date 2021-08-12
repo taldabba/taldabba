@@ -1,6 +1,6 @@
-### 👋 Hello! I'm Taim! (@taldabba)
+### 👋 Hello, I'm Taim! (@taldabba)
 
-## ⚙️ I am a Mechanical Engineering student that is learning programming!  
+## ⚙️ I am a mechanical engineering student that is learning programming!  
 - 👀 I’m mostly interested in machine learning and computer vision
 - 🌱 I’m currently learning Python, C++, OpenCV, along with some front-end!
 - 🤝 I would love to collaborate with other beginner programmers that are doing mechatronics or mechanical engineering! 
@@ -51,6 +51,7 @@
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
   </a>
+  &nbsp;
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
   </a>
