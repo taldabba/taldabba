@@ -28,12 +28,14 @@
 <br>
 
 ---
-<a href="https://github.com/taldabba/taldabba/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
-</a>
-<a href="https://github.com/taldabba/taldabba/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
-</a>
+<div style="left: 0; right: 0; top: 0; bottom: 0; margin: auto;">
+  <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
+  </a>
+  <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
+  </a>
+ </div>
 
 [website]:https://taldabba.github.io/personal-website/
 [linkedin]:https://www.linkedin.com/in/taim
