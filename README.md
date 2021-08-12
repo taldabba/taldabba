@@ -31,7 +31,6 @@
 
 <style>
 .stats {
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
