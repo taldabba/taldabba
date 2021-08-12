@@ -27,8 +27,6 @@
 
 ---
 
-![Taim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba"/>
 
