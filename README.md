@@ -53,6 +53,7 @@
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5&theme=nightowl"/>
   </a>
+  <br>
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=taldabba.visitor-badge"/>
   </a
