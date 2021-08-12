@@ -28,7 +28,7 @@
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5"/>
 
 [website]:https://taldabba.github.io/personal-website/
 [linkedin]:https://www.linkedin.com/in/taim
