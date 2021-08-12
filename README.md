@@ -8,7 +8,6 @@
 
 <div align="center">
   <h2><b>Connect with me!</b></h2>
-  ---
   <a href="https://taldabba.github.io/personal-website/">
     <img align="center" alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
   </a>
@@ -26,7 +25,6 @@
 
 <div align="center">
   <h2><b>Languages and Tools</b></h2>
-  ---
   <img align="center" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
   &nbsp;&nbsp;
   <img align="center" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
@@ -49,6 +47,7 @@
 ---
 
 <div align="center">
+  <h2>My Github Stats</h2>
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
   </a>
