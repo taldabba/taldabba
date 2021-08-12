@@ -51,6 +51,6 @@
   </a>
   &nbsp;
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5&theme=nightowl"/>
   </a>
 </div>
