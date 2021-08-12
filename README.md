@@ -4,7 +4,7 @@
 - 👀 I’m mostly interested in machine learning and computer vision
 - 🌱 I’m currently learning Python, C++, OpenCV, along with some front-end!
 - 🤝 I would love to collaborate with other beginner programmers that are doing mechatronics or mechanical engineering! 
-- 🤖 My current goals are learning the important software needed for robotics and doing an Arduino robotic hand project 🦾
+- 🤖 My current goals are learning the important software needed for robotics and doing an Arduino robot hand project 🦾
 
 <div align="center">
   <h2><b>Connect with me!</b></h2>
