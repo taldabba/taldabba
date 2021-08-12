@@ -30,10 +30,10 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true"/> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5"/> -->
 
-<a>
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
 </a>
 
