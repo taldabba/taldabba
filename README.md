@@ -30,5 +30,5 @@
 ![Taim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=tokyonight&count_private=true)
 
 [website]:https://taldabba.github.io/personal-website/
-[linkedin]:https://www.linkedin.com/taim
+[linkedin]:https://www.linkedin.com/in/taim
 [gmail]:mailto:taldabba@gmail.com
