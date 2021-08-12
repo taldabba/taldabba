@@ -57,7 +57,6 @@
   <br>
   <br>
   <br>
-  <br>
   
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=taldabba.visitor-badge"/>
