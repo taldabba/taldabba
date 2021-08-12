@@ -27,8 +27,15 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true"/> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5"/> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
+</a>
 
 [website]:https://taldabba.github.io/personal-website/
 [linkedin]:https://www.linkedin.com/in/taim
