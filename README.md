@@ -25,10 +25,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=taldabba&show_icons=true&hide_border=true"/>
-</details>
+![Taim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=radical&count_private=true)
 
 [website]:https://taldabba.github.io/personal-website/
 [linkedin]:https://www.linkedin.com/taim
