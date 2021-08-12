@@ -11,11 +11,11 @@
   <a href="https://taldabba.github.io/personal-website/">
     <img align="center" alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/taim">
     <img align="center" alt="Taim's LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:taldabba@gmail.com">
     <img align="center" alt="Taim's Email" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"/>
   </a>
