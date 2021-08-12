@@ -6,9 +6,8 @@
 - 🤝 I would love to collaborate with other beginner programmers that are doing mechatronics or mechanical engineering! 
 - 🤖 My current goals are learning the important software needed for robotics and doing an Arduino robotic hand project 🦾
 
-### Connect with me!
-
 <div align="center">
+  <h2>Connect with me!</h2>
   [<img alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
   &nbsp;&nbsp;
   [<img alt="Taim's LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
@@ -17,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h3>Languages and Tools</h3>
+  <h2>Languages and Tools</h2>
   <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
   <img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
   <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
