@@ -29,21 +29,14 @@
 
 ---
 
-<style>
-.stats {
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-<div class="stats">
+<div style="display: block; margin-left: auto; margin-right: auto;">
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
   </a>
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taldabba&langs_count=5" />
   </a>
- </div>
+</div>
 
 [website]:https://taldabba.github.io/personal-website/
 [linkedin]:https://www.linkedin.com/in/taim
