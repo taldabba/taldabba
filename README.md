@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Taim! (@taldabba)
 
 ## ⚙️ I am a mechanical engineering student that is learning programming!  
-- 👀 I’m mostly interested in machine learning and computer vision, but I'm honestly interested in everything LOL
+- 👀 I’m mostly interested in machine learning and computer vision, but I'm interested in everything
 - 🌱 I’m currently learning Python, C++, OpenCV, along with some front-end!
 - 🤝 I would love to collaborate with other beginner programmers that are doing mechatronics or mechanical engineering! 
 - 🤖 My current goals are learning the important software needed for robotics and doing an Arduino robot hand project 🦾
