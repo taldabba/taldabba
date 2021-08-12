@@ -7,7 +7,8 @@
 - 🤖 My current goals are learning the important software needed for robotics and doing an Arduino robotic hand project 🦾
 
 <div align="center">
-  <h2><bold>Connect with me!</bold></h2>
+  <h2><b>Connect with me!</b></h2>
+  ---
   <a href="https://taldabba.github.io/personal-website/">
     <img align="center" alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
   </a>
@@ -21,9 +22,11 @@
   </a>
 </div>
 
+<br>
 
 <div align="center">
-  <h2><bold>Languages and Tools</bold></h2>
+  <h2><b>Languages and Tools</b></h2>
+  ---
   <img align="center" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
   &nbsp;&nbsp;
   <img align="center" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
