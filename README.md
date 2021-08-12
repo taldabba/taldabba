@@ -28,7 +28,18 @@
 <br>
 
 ---
-<div style="left: 0; right: 0; top: 0; bottom: 0; margin: auto;">
+
+<style>
+.stats {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+</style>
+
+<div class="stats">
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=nightowl&count_private=true" />
   </a>
