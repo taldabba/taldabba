@@ -27,7 +27,7 @@
 
 ---
 
-![Taim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=radical&count_private=true)
+![Taim's GitHub stats](https://github-readme-stats.vercel.app/api?username=taldabba&show_icons=true&theme=tokyonight&count_private=true)
 
 [website]:https://taldabba.github.io/personal-website/
 [linkedin]:https://www.linkedin.com/taim
