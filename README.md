@@ -7,7 +7,7 @@
 - 🤖 My current goals are learning the important software needed for robotics and doing an Arduino robotic hand project 🦾
 
 <div align="center">
-  <h2>Connect with me!</h2>
+  <h2><bold>Connect with me!</bold></h2>
   <a href="https://taldabba.github.io/personal-website/">
     <img align="center" alt="Taim's Website" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
   </a>
@@ -23,14 +23,21 @@
 
 
 <div align="center">
-  <h2>Languages and Tools</h2>
+  <h2><bold>Languages and Tools</bold></h2>
   <img align="center" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+  &nbsp;&nbsp;
   <img align="center" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
+  &nbsp;&nbsp;
   <img align="center" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  &nbsp;&nbsp;
   <img align="center" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  &nbsp;&nbsp;
   <img align="center" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+  &nbsp;&nbsp;
   <img align="center" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+  &nbsp;&nbsp;
   <img align="center" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+  &nbsp;&nbsp;
   <img align="center" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 </div>
   
