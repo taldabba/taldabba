@@ -44,8 +44,6 @@
   
 <br>
 
----
-
 <div align="center">
   <h2>My Github Stats</h2>
   <a href="https://github.com/taldabba/taldabba/blob/main/README.md">
